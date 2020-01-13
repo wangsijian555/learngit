@@ -4,4 +4,4 @@ git add four.
 git add five. six
 git add seven
 git add eight
-/*这个不提交*/ master提交
+Creating a new branch is quick and simple. //add内容
